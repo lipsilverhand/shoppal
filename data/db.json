@@ -1,0 +1,28 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Sauron's Helmet Collectible",
+            "price": 280,
+            "available": false
+        },
+        {
+            "id": 2,
+            "name": "Ultra Sound Bar",
+            "price": 489,
+            "available": true
+        },
+        {
+            "id": 3,
+            "name": "High-end Gaming Laptop",
+            "price": 2300,
+            "available": true
+        },
+        {
+            "id": 4,
+            "name": "Standing Light",
+            "price": 130,
+            "available": true
+        }
+    ]
+}
